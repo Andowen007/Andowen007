@@ -1,17 +1,21 @@
 ## Hi there 👋
 ### My name is Tiffany Scoughton :heart:
-### I’m currently working on getting my Bachelors in Graphic Information Technology (GIT) at Arizona State Univeristy :cactus:
+
+### I’m currently working on getting my bachelor's degree in Graphic Information Technology (GIT) at Arizona State University :cactus:
 Learning about coding and websites is kind of fun, I dig it! :sunglasses:
 
-I have a small company, Borderlands Media! :books:
+Although, designing on Adobe is my favorite :paintbrush:
+
+You can reach me at my school email: tscought@asu.edu.
+
+Or my work email: tscought@borderlandsmedia.com
+
+I have a small publishing company, Borderlands Media! :books:
+
 ### Connect with me! :computer:
 https://borderlandsmedia.com
 
-Ask me about dogs! Oh and books!
-How to reach me: you can reach me at my email: tscought@asu.edu.
-Pronouns: she/her...
-
-Fun fact: I am a registered nurse! I got my bachelors in nursing at ASU. :stethoscope:
+*Fun fact: I am a registered nurse! I got my bachelor's in science at ASU* :stethoscope:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andowen007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
