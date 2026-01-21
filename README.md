@@ -13,6 +13,10 @@ Pronouns: she/her...
 
 Fun fact: I am a registered nurse! I got my bachelors in nursing at ASU. :stethoscope:
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andowen007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+
+
 
 <a href="https://www.instagram.com/borderlandsmediapublishing/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/borderlandsmedia" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
